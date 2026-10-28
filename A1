@@ -1,10 +1,8 @@
-
-with open(žurnals.log,encoding="utf-8") as fails:
-    rindas = fails.redlines()
-
 skaits = 0
-for rinda in rindas:
-    if "Critical" in rinda:
-        skaits +=1
 
-print(skaits)
+with open("sistema.log", encoding="utf-8") as f:
+    for rinda in f:
+        if "CRITICAL" in rinda:
+            skaits = skaits + 1
+
+print("CRITICAL rindas:", skaits)
