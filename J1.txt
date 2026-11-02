@@ -1,0 +1,21 @@
+1)ja skript strada bet rezultats ne tads kad man vajag 
+parbaudit in salidzinat rezulatatu ar sagaiditamo rezultatu
+tad es parbaudishu sintaksu var but ir uzrakstits no lielakiem lidz mazakiem a man vajag no mazakim lidz lielakiem
+
+
+
+
+
+
+
+
+
+
+
+2)koloniņas salipušas viena jo excel izmanto citu kollonu atdalitaju 
+pimeram : vai ;
+
+CSV faila atdalitais neatbilsts EXCEL iestatijumiem
+
+
+ 
